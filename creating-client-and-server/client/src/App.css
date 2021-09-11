@@ -1,0 +1,34 @@
+.App {
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+div.ant-comment-inner {
+  padding: 0;
+}
+
+.tab-content {
+  padding: 0 20px 20px 20px;
+}
+
+.left-right-space {
+  padding: 0 5px  ;
+}
+
+.middle-all-space {
+  padding: 10px  ;
+}
+
+.small-all-space {
+  padding: 5px  ;
+}
+
+.zero-space {
+  padding: 0;
+}
+
+.message-list > div {
+  padding: 0;
+  height: 600px;
+}
